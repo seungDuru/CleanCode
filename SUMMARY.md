@@ -1,4 +1,4 @@
 # Table of contents
 
 * [Clean Code](README.md)
-* [Page 2](page-2.md)
+* [🪥 Chapter 01 - 깨끗한 코드](chapter-01.md)
